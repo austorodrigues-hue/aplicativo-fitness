@@ -1,0 +1,5 @@
+{
+  "name": "app",
+  "description": "Um aplicativo completo para monitoramento de calorias e hidratação, projetado para ajudar você a alcançar seus objetivos de emagrecimento de forma simples e eficiente.",
+  "requestFramePermissions": []
+}
